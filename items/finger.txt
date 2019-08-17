@@ -18,7 +18,7 @@
 "Family Jewels" int=207
 "Thickly Twisted Wire" int=250
 "Magnetic Gloves" int=300
-"Midas Touch" int=350
+"Midas Touch" int=350 gold=10
 "Mini Black Hole" int=400
 "Saint's Ring" int=500
 
